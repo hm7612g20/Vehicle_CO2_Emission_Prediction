@@ -1,5 +1,7 @@
 # Vehicle CO2 Emission Prediction
 
+> Developed as part of MSc Health Data Science (University of Exeter) programme.
+
 This repository looks at predicting vehicular CO2 emissions based on vehicle specifications using different machine learning techniques. 
 
 Data Reference:
